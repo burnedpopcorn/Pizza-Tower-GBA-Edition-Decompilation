@@ -1,0 +1,5 @@
+audio_play_sound(sfx_break, 10, false)
+instance_create((x + 8), y, obj_debris)
+instance_create((x + 8), y, obj_debris)
+instance_create((x + 8), y, obj_debris)
+instance_create((x + 8), y, obj_debris)

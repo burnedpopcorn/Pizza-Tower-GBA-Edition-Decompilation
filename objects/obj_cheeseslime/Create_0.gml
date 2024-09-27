@@ -1,0 +1,9 @@
+movespeed = 0.5
+roam = 0
+bounce = 0
+ministun = 0
+stun = 0
+alarm[0] = 100
+hsp = 0
+vsp = 0
+grav = 0.13
