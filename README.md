@@ -20,3 +20,10 @@ This Decompilation is Finished, and will most likely not be worked on
 ### Thanks to
 - Whoever made the Original Pizza Tower GBA Edition
 - QuantumV, for his GMS2 decompiler
+
+### Also
+This GMS2 Project is not organized with Internal Folders
+
+It isn't really worth my time, especially since GMS Search is really good, and there's barely any assets anyways
+
+So Cry about it
