@@ -8,6 +8,7 @@ This Decompilation is Finished, and will most likely not be worked on
 
 - The Original GMS Version according to UTMT was GMS2.3, but I have updated it to the GMS2 2022.2 LTS
 - The Project Icon has been changed from stock
+- All Sounds have been changed to be Compressed and Embedded into the data.win
 - Windows, GX.GAMES, and HTML Exports have been tested and do work
 
 > All tested Exports has had their Settings tweaked to replace stock information
